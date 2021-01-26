@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,EACE,oBAAqB,CACtB,GAGC,kBAAoB","file":"main.7c4889cd.chunk.css","sourcesContent":["* {\n  list-style-type: none;\n}\n\nol {\n  margin: 0 !important;\n}\n"]}
